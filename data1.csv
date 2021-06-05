@@ -1,0 +1,15 @@
+Day,Weather,Temp,Humidity,Wind,Play
+1,Sunny,Hot,High,Week,No
+2,Sunny,Hot,High,Strong,No
+3,Cloudy,Hot,High,Week,Yes
+4,Rainy,Medium,High,Week,Yes
+5,Rainy,Cold,Normal ,Week,Yes
+6,Rainy,Cold,Normal ,Strong,No
+7,Cloudy,Cold,Normal ,Strong,Yes
+8,Sunny,Medium,High,Week,No
+9,Sunny,Cold,Normal ,Week,Yes
+10,Rainy,Medium,Normal ,Week,Yes
+11,Sunny,Medium,Normal ,Strong,Yes
+12,Cloudy,Medium,High,Strong,Yes
+13,Cloudy,Hot,Normal ,Week,Yes
+14,Rainy,Medium,High,Strong,No
